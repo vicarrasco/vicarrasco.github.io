@@ -1,5 +1,6 @@
 ## Welcome to Vicarrasco's homepage!
 
+Feel free to bookmark this to keep an eye on my project updates
 
 You can use the [editor on GitHub](https://github.com/vicarrasco/vicarrasco.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
